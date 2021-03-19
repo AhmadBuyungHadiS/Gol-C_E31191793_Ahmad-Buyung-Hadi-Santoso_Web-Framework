@@ -57,3 +57,4 @@ $route['profil'] = 'welcome/profil';
 $route['contact'] = 'welcome/contact';
 $route['hilangIndex'] = 'welcome/hilangIndex';
 $route['Demo_view'] = 'welcome/Demo_view';
+$route['Kode/(:any)'] = 'Kode/hello/$1';

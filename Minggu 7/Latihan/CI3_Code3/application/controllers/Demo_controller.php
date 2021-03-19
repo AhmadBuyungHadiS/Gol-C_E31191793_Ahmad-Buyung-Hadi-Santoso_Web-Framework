@@ -1,4 +1,5 @@
 <?php  
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Demo_controller extends CI_Controller {
 

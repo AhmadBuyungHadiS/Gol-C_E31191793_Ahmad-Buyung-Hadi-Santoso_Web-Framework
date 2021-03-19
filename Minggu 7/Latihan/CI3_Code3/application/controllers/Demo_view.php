@@ -1,4 +1,5 @@
 <?php  
+defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Demo_view extends CI_Controller {
 	//Soal 2 Kode 1

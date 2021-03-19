@@ -10,6 +10,4 @@ class Demo_view extends CI_Controller {
 	}
 }
 
-
-
 ?>

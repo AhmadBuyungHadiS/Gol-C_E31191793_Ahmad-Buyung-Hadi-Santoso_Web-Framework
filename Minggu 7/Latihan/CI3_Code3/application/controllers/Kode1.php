@@ -19,7 +19,7 @@ class Kode1 extends CI_Controller {
 		$this->load->view('javaview');
 	}
 
-	public function __remap($var) {
+	public function _remap($var) {
 		if(isset($var)) {
 			switch(strtolower($var)) {
 				case 'python':
